@@ -4,7 +4,7 @@ title: Selamat Datang di Blog
 ---
 
 👋 Halo, saya Nouvalalg!  
-Ini adalah blog pribadi saya berisi catatan belajar, eksperimen teknologi, dan pengembangan diri.
+Ini adalah blog pribadi saya berisi catatan pkl saya, eksperimen teknologi, dan pengembangan diri.
 
 > Belajar yang dibagikan tidak akan pernah sia-sia. 🚀
 
@@ -14,5 +14,5 @@ Ini adalah blog pribadi saya berisi catatan belajar, eksperimen teknologi, dan p
 - 🛠 Tools & tips
 
 📬 Hubungi saya:  
-✉️ Email: nouvalalg@email.com  
-📸 IG: @nouvalalg  
+✉️ Email: vallzcrzy@email.com  
+📸 IG: @Fllyyaaaaa_  
