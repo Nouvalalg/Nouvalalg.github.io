@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: Tentang Saya
 permalink: /about/
 ---
 
-Some information about you!
+Halo, saya Nouvalalg. Saya adalah seorang pembelajar mandiri yang menyukai dunia teknologi dan dokumentasi.
 
-### More Information
+Tujuan dari blog ini:
+- Menjadi tempat belajar yang terstruktur
+- Berbagi ilmu kepada orang lain
+- Menyimpan catatan penting selama proses belajar
 
-A place to include any other types of information that you'd like to include about yourself.
+Blog ini dibuat menggunakan:
+- **Jekyll** (static site generator)
+- **GitHub Pages** (hosting gratis)
+- **Markdown** (untuk menulis konten)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Terima kasih sudah mampir 🙏
