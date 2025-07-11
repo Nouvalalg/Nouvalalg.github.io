@@ -1,9 +1,16 @@
-title: Catatan Nouvalalg
-email: your-email@example.com
+title: "Blog Nouvalalg"
+email: vallzcrzy@email.com
 description: >-
-  Blog pribadi berisi catatan belajar, pengembangan diri, dan dokumentasi ringan.
-baseurl: "" 
+  Blog pribadi tentang catatan PKL, pengembangan diri dan teknologi.
+baseurl: "" # leave this blank for GitHub Pages
 url: "https://nouvalalg.github.io"
 theme: minima
+
+# social
+author:
+  name: Nouvalalg
+  email: vallzcrzy@email.com
+  instagram: Fllyyaaaaa_
+
 plugins:
   - jekyll-feed
